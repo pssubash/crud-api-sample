@@ -1,0 +1,8 @@
+techm_student:
+    resource: "@TechmStudentBundle/Controller/"
+    type:     annotation
+student:
+    type: rest
+    resource: Techm\StudentBundle\Controller\StudentController
+
+
